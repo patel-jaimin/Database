@@ -1,0 +1,115 @@
+-------------------------------------------------------------------------
+Input 4:
+
+-------------------------------------------------------------------------
+b1;
+
+Begin Transaction 1
+Transaction Timestamp 1
+-------------------------------------------------------------------------
+r1(Y);
+
+Read operation
+Granting the ReadLock on the data item Y by Transaction 1
+-------------------------------------------------------------------------
+w1(Y);
+
+write operation
+Upgrading Readlock to WriteLock on data item Y for Transaction 1
+-------------------------------------------------------------------------
+r1(Z);
+
+Read operation
+Granting the ReadLock on the data item Z by Transaction 1
+-------------------------------------------------------------------------
+b2;
+
+Begin Transaction 2
+Transaction Timestamp 2
+-------------------------------------------------------------------------
+r2(Y);
+
+Read operation
+Conflicting Write lock: data item Y is under WriteLock by Transaction 1
+calling wound-wait mechanism
+Changing transaction state for Transaction 2 to blocked
+-------------------------------------------------------------------------
+b3;
+
+Begin Transaction 3
+Transaction Timestamp 3
+-------------------------------------------------------------------------
+r3(Z);
+
+Read operation
+Granting the ReadLock on the data item Z by Transaction 3
+-------------------------------------------------------------------------
+w3(Z);
+
+write operation
+Changing transaction state for Transaction 3 to blocked
+-------------------------------------------------------------------------
+b4;
+
+Begin Transaction 4
+Transaction Timestamp 4
+-------------------------------------------------------------------------
+r4(X);
+
+Read operation
+Granting the ReadLock on the data item X by Transaction 4
+-------------------------------------------------------------------------
+r4(Y);
+
+Read operation
+Conflicting Write lock: data item Y is under WriteLock by Transaction 1
+calling wound-wait mechanism
+Changing transaction state for Transaction 4 to blocked
+-------------------------------------------------------------------------
+e1;
+
+end
+Committing transaction 1
+Unlocking all resources held by transaction 1
+Attempting operation r2(Y);
+
+-------------------------------------------------------------------------
+r2(Y);
+
+Read operation
+Granting the ReadLock on the data item Y by Transaction 2
+Attempting operation r4(Y);
+
+-------------------------------------------------------------------------
+r4(Y);
+
+Read operation
+Granting the ReadLock on the data item Y by Transaction 4
+-------------------------------------------------------------------------
+w4(X);
+
+write operation
+Upgrading Readlock to WriteLock on data item X for Transaction 4
+-------------------------------------------------------------------------
+e3;
+
+end
+Committing transaction 3
+Unlocking all resources held by transaction 3
+-------------------------------------------------------------------------
+e2;
+
+end
+Committing transaction 2
+Unlocking all resources held by transaction 2
+-------------------------------------------------------------------------
+w4(Y);
+
+write operation
+Upgrading Readlock to WriteLock on data item Y for Transaction 4
+-------------------------------------------------------------------------
+e4;
+
+end
+Committing transaction 4
+Unlocking all resources held by transaction 4

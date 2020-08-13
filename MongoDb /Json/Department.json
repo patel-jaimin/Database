@@ -1,0 +1,56 @@
+[
+    {
+        "DepartmentName": "Research",
+        "Manager_SSN": "333445555", 
+        "Manager_Start_Date": "22-MAY-1978", 
+        "DepartmentNumber": "5"
+    },
+    {
+        "DepartmentName": "Administration",
+        "Manager_SSN": "987654321", 
+        "Manager_Start_Date": "01-JAN-1985", 
+        "DepartmentNumber": "4"
+    },
+    {
+        "DepartmentName": "Headquarters",
+        "Manager_SSN": "888665555", 
+        "Manager_Start_Date": "19-JUN-1971", 
+        "DepartmentNumber": "1"
+    },
+    {
+        "DepartmentName": "Software",
+        "Manager_SSN": "111111100", 
+        "Manager_Start_Date": "15-MAY-1999", 
+        "DepartmentNumber": "6"
+    },
+    {
+        "DepartmentName": "Hardware",
+        "Manager_SSN": "444444400", 
+        "Manager_Start_Date": "15-MAY-1998", 
+        "DepartmentNumber": "7"
+    },
+    {
+        "DepartmentName": "Sales",
+        "Manager_SSN": "555555500", 
+        "Manager_Start_Date": "01-JAN-1997", 
+        "DepartmentNumber": "8"
+    },
+    {
+        "DepartmentName": "HR",
+        "Manager_SSN": "112244668", 
+        "Manager_Start_Date": "01-FEB-1989", 
+        "DepartmentNumber": "9"
+    },
+    {
+        "DepartmentName": "Networking",
+        "Manager_SSN": "110110110", 
+        "Manager_Start_Date": "15-MAY-2009", 
+        "DepartmentNumber": "3"
+    },
+    {
+        "DepartmentName": "QA",
+        "Manager_SSN": "913323708", 
+        "Manager_Start_Date": "2-FEB-2010", 
+        "DepartmentNumber": "11"
+    }
+]

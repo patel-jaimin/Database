@@ -1,0 +1,1182 @@
+[{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c02a"
+	},
+	"Emp_Fname": "Jennifer",
+	"Emp_Lname": "Wallace",
+	"Department_Name": "Administration",
+	"Projects": [
+		{
+			"Hours": "20.0",
+			"ProjectName": "Newbenefits",
+			"ProjectNumber": "30"
+		},
+		{
+			"Hours": "15.0",
+			"ProjectName": "Reorganization",
+			"ProjectNumber": "20"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c02b"
+	},
+	"Emp_Fname": "Franklin",
+	"Emp_Lname": "Wong",
+	"Department_Name": "Research",
+	"Projects": [
+		{
+			"Hours": "10.0",
+			"ProjectName": "ProductZ",
+			"ProjectNumber": "3"
+		},
+		{
+			"Hours": "10.0",
+			"ProjectName": "Computerization",
+			"ProjectNumber": "10"
+		},
+		{
+			"Hours": "10.0",
+			"ProjectName": "ProductY",
+			"ProjectNumber": "2"
+		},
+		{
+			"Hours": "10.0",
+			"ProjectName": "Reorganization",
+			"ProjectNumber": "20"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c02c"
+	},
+	"Emp_Fname": "Ramesh",
+	"Emp_Lname": "Narayan",
+	"Department_Name": "Research",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "ProductZ",
+			"ProjectNumber": "3"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c02d"
+	},
+	"Emp_Fname": "Jon",
+	"Emp_Lname": "Jones",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c02e"
+	},
+	"Emp_Fname": "Justin",
+	"Emp_Lname": "Mark",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c02f"
+	},
+	"Emp_Fname": "James",
+	"Emp_Lname": "Borg",
+	"Department_Name": "Headquarters",
+	"Projects": [
+		{
+			"Hours": "5.0",
+			"ProjectName": "Reorganization",
+			"ProjectNumber": "20"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c030"
+	},
+	"Emp_Fname": "Brad",
+	"Emp_Lname": "Knight",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c031"
+	},
+	"Emp_Fname": "John",
+	"Emp_Lname": "Smith",
+	"Department_Name": "Research",
+	"Projects": [
+		{
+			"Hours": "7.5",
+			"ProjectName": "ProductY",
+			"ProjectNumber": "2"
+		},
+		{
+			"Hours": "32.5",
+			"ProjectName": "ProductX",
+			"ProjectNumber": "1"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c032"
+	},
+	"Emp_Fname": "Andy",
+	"Emp_Lname": "Vile",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c033"
+	},
+	"Emp_Fname": "Jenny",
+	"Emp_Lname": "Vos",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c034"
+	},
+	"Emp_Fname": "Josh",
+	"Emp_Lname": "Zell",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "48.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c035"
+	},
+	"Emp_Fname": "Evan",
+	"Emp_Lname": "Wallis",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c036"
+	},
+	"Emp_Fname": "Tom",
+	"Emp_Lname": "Brand",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c037"
+	},
+	"Emp_Fname": "Chris",
+	"Emp_Lname": "Carter",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c038"
+	},
+	"Emp_Fname": "Kim",
+	"Emp_Lname": "Grace",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "Middleware",
+			"ProjectNumber": "63"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c039"
+	},
+	"Emp_Fname": "Bonnie",
+	"Emp_Lname": "Bays",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c03a"
+	},
+	"Emp_Fname": "Jeff",
+	"Emp_Lname": "Chase",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "46.0",
+			"ProjectName": "Middleware",
+			"ProjectNumber": "63"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c03b"
+	},
+	"Emp_Fname": "Alec",
+	"Emp_Lname": "Best",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c03c"
+	},
+	"Emp_Fname": "Sam",
+	"Emp_Lname": "Snedden",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c03d"
+	},
+	"Emp_Fname": "John",
+	"Emp_Lname": "James",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "LaserPrinters",
+			"ProjectNumber": "92"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c03e"
+	},
+	"Emp_Fname": "Nandita",
+	"Emp_Lname": "Ball",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "44.0",
+			"ProjectName": "LaserPrinters",
+			"ProjectNumber": "92"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c03f"
+	},
+	"Emp_Fname": "Ahmad",
+	"Emp_Lname": "Jabbar",
+	"Department_Name": "Administration",
+	"Projects": [
+		{
+			"Hours": "35.0",
+			"ProjectName": "Computerization",
+			"ProjectNumber": "10"
+		},
+		{
+			"Hours": "5.0",
+			"ProjectName": "Newbenefits",
+			"ProjectNumber": "30"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c040"
+	},
+	"Emp_Fname": "Alicia",
+	"Emp_Lname": "Zelaya",
+	"Department_Name": "Administration",
+	"Projects": [
+		{
+			"Hours": "30.0",
+			"ProjectName": "Newbenefits",
+			"ProjectNumber": "30"
+		},
+		{
+			"Hours": "10.0",
+			"ProjectName": "Computerization",
+			"ProjectNumber": "10"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c041"
+	},
+	"Emp_Fname": "Jill",
+	"Emp_Lname": "Jarvis",
+	"Department_Name": "HR",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c042"
+	},
+	"Emp_Fname": "Jared",
+	"Emp_Lname": "James",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c043"
+	},
+	"Emp_Fname": "Kate",
+	"Emp_Lname": "King",
+	"Department_Name": "Sales",
+	"Projects": []
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c044"
+	},
+	"Emp_Fname": "Billie",
+	"Emp_Lname": "King",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c045"
+	},
+	"Emp_Fname": "Megan",
+	"Emp_Lname": "Jones",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "Advertizing",
+			"ProjectNumber": "70"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c046"
+	},
+	"Emp_Fname": "Sammy",
+	"Emp_Lname": "Hall",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c047"
+	},
+	"Emp_Fname": "Ray",
+	"Emp_Lname": "King",
+	"Department_Name": "HR",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c048"
+	},
+	"Emp_Fname": "Naveen",
+	"Emp_Lname": "Drew",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c049"
+	},
+	"Emp_Fname": "Lyle",
+	"Emp_Lname": "Leslie",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c04a"
+	},
+	"Emp_Fname": "Carl",
+	"Emp_Lname": "Reedy",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c04b"
+	},
+	"Emp_Fname": "Alex",
+	"Emp_Lname": "Freed",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c04c"
+	},
+	"Emp_Fname": "Roy",
+	"Emp_Lname": "Lewallen",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "2.0",
+			"ProjectName": "ProductY",
+			"ProjectNumber": "2"
+		},
+		{
+			"Hours": "4.0",
+			"ProjectName": "ProductZ",
+			"ProjectNumber": "3"
+		},
+		{
+			"Hours": "2.0",
+			"ProjectName": "ProductX",
+			"ProjectNumber": "1"
+		},
+		{
+			"Hours": "4.0",
+			"ProjectName": "Computerization",
+			"ProjectNumber": "10"
+		},
+		{
+			"Hours": "4.0",
+			"ProjectName": "Reorganization",
+			"ProjectNumber": "20"
+		},
+		{
+			"Hours": "4.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		},
+		{
+			"Hours": "4.0",
+			"ProjectName": "Newbenefits",
+			"ProjectNumber": "30"
+		},
+		{
+			"Hours": "4.0",
+			"ProjectName": "Middleware",
+			"ProjectNumber": "63"
+		},
+		{
+			"Hours": "4.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		},
+		{
+			"Hours": "2.0",
+			"ProjectName": "Advertizing",
+			"ProjectNumber": "70"
+		},
+		{
+			"Hours": "2.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		},
+		{
+			"Hours": "1.0",
+			"ProjectName": "LaserPrinters",
+			"ProjectNumber": "92"
+		},
+		{
+			"Hours": "3.0",
+			"ProjectName": "Human1",
+			"ProjectNumber": "95"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c04d"
+	},
+	"Emp_Fname": "Arnold",
+	"Emp_Lname": "Head",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c04e"
+	},
+	"Emp_Fname": "Red",
+	"Emp_Lname": "Bacher",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "10.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		},
+		{
+			"Hours": "30.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		},
+		{
+			"Hours": "10.0",
+			"ProjectName": "Middleware",
+			"ProjectNumber": "63"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c04f"
+	},
+	"Emp_Fname": "Gerald",
+	"Emp_Lname": "Small",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c050"
+	},
+	"Emp_Fname": "Joyce",
+	"Emp_Lname": "English",
+	"Department_Name": "Research",
+	"Projects": [
+		{
+			"Hours": "20.0",
+			"ProjectName": "ProductY",
+			"ProjectNumber": "2"
+		},
+		{
+			"Hours": "20.0",
+			"ProjectName": "ProductX",
+			"ProjectNumber": "1"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c051"
+	},
+	"Emp_Fname": "Jon",
+	"Emp_Lname": "Kramer",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "LaserPrinters",
+			"ProjectNumber": "92"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c052"
+	},
+	"Emp_Fname": "Helga",
+	"Emp_Lname": "Pataki",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "Middleware",
+			"ProjectNumber": "63"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c053"
+	},
+	"Emp_Fname": "Bob",
+	"Emp_Lname": "Bender",
+	"Department_Name": "Sales",
+	"Projects": []
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c054"
+	},
+	"Emp_Fname": "John",
+	"Emp_Lname": "Ed",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "10.0",
+			"ProjectName": "InkjetPrinters",
+			"ProjectNumber": "91"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c055"
+	},
+	"Emp_Fname": "Jennifer",
+	"Emp_Lname": "Joy",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "20.0",
+			"ProjectName": "Middleware",
+			"ProjectNumber": "63"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c056"
+	},
+	"Emp_Fname": "Johny",
+	"Emp_Lname": "Smith",
+	"Department_Name": "HR",
+	"Projects": [
+		{
+			"Hours": "10.0",
+			"ProjectName": "ProductZ",
+			"ProjectNumber": "3"
+		},
+		{
+			"Hours": "10.0",
+			"ProjectName": "Reorganization",
+			"ProjectNumber": "20"
+		},
+		{
+			"Hours": "25.0",
+			"ProjectName": "Newbenefits",
+			"ProjectNumber": "30"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c057"
+	},
+	"Emp_Fname": "Jose",
+	"Emp_Lname": "Barbara",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "Middleware",
+			"ProjectNumber": "63"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c058"
+	},
+	"Emp_Fname": "Juan",
+	"Emp_Lname": "Linda",
+	"Department_Name": "HR",
+	"Projects": [
+		{
+			"Hours": "40.0",
+			"ProjectName": "Human1",
+			"ProjectNumber": "95"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c059"
+	},
+	"Emp_Fname": "Penny",
+	"Emp_Lname": "Wolowitz",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "4.0",
+			"ProjectName": "SearchEngine",
+			"ProjectNumber": "22"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c05a"
+	},
+	"Emp_Fname": "Sunil",
+	"Emp_Lname": "Gupta",
+	"Department_Name": "Networking",
+	"Projects": []
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c05b"
+	},
+	"Emp_Fname": "Kim",
+	"Emp_Lname": "Ted",
+	"Department_Name": "HR",
+	"Projects": [
+		{
+			"Hours": "25.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c05c"
+	},
+	"Emp_Fname": "Michael",
+	"Emp_Lname": "Morgan",
+	"Department_Name": "Research",
+	"Projects": [
+		{
+			"Hours": "11.0",
+			"ProjectName": "EntityAnnot",
+			"ProjectNumber": "4"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c05d"
+	},
+	"Emp_Fname": "willie",
+	"Emp_Lname": "Mary",
+	"Department_Name": "HR",
+	"Projects": [
+		{
+			"Hours": "35.0",
+			"ProjectName": "Human1",
+			"ProjectNumber": "95"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c05e"
+	},
+	"Emp_Fname": "Sheldon",
+	"Emp_Lname": "Cucuou",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "23.0",
+			"ProjectName": "Human1",
+			"ProjectNumber": "95"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c05f"
+	},
+	"Emp_Fname": "Jake",
+	"Emp_Lname": "Sheen",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "25.0",
+			"ProjectName": "ConfigMgmt",
+			"ProjectNumber": "11"
+		},
+		{
+			"Hours": "25.0",
+			"ProjectName": "Computerization",
+			"ProjectNumber": "10"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c060"
+	},
+	"Emp_Fname": "Wilson",
+	"Emp_Lname": "Holmes",
+	"Department_Name": "Administration",
+	"Projects": [
+		{
+			"Hours": "5.0",
+			"ProjectName": "EntityAnnot",
+			"ProjectNumber": "4"
+		},
+		{
+			"Hours": "20.0",
+			"ProjectName": "ConfigMgmt",
+			"ProjectNumber": "11"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c061"
+	},
+	"Emp_Fname": "Debra",
+	"Emp_Lname": "Hall",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "20.0",
+			"ProjectName": "ConfigMgmt",
+			"ProjectNumber": "11"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c062"
+	},
+	"Emp_Fname": "Gregory",
+	"Emp_Lname": "Laurie",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "25.0",
+			"ProjectName": "Middleware",
+			"ProjectNumber": "63"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c063"
+	},
+	"Emp_Fname": "Cameron",
+	"Emp_Lname": "Thirteen",
+	"Department_Name": "Administration",
+	"Projects": [
+		{
+			"Hours": "45.0",
+			"ProjectName": "EntityAnnot",
+			"ProjectNumber": "4"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c064"
+	},
+	"Emp_Fname": "Joseph",
+	"Emp_Lname": "Kirkish",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "33.0",
+			"ProjectName": "LaserPrinters",
+			"ProjectNumber": "92"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c065"
+	},
+	"Emp_Fname": "Cindy",
+	"Emp_Lname": "Burklow",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "25.0",
+			"ProjectName": "Middleware",
+			"ProjectNumber": "63"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c066"
+	},
+	"Emp_Fname": "Zach",
+	"Emp_Lname": "Geller",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "30.0",
+			"ProjectName": "SearchEngine",
+			"ProjectNumber": "22"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c067"
+	},
+	"Emp_Fname": "Christina",
+	"Emp_Lname": "Hisel",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "4.0",
+			"ProjectName": "OperatingSystem",
+			"ProjectNumber": "61"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c068"
+	},
+	"Emp_Fname": "Lisa",
+	"Emp_Lname": "House",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "10.0",
+			"ProjectName": "MotherBoard",
+			"ProjectNumber": "29"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c069"
+	},
+	"Emp_Fname": "Alex",
+	"Emp_Lname": "Yu",
+	"Department_Name": "Software",
+	"Projects": [
+		{
+			"Hours": "18.0",
+			"ProjectName": "DataMining",
+			"ProjectNumber": "13"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c06a"
+	},
+	"Emp_Fname": "Richard",
+	"Emp_Lname": "Koelbel",
+	"Department_Name": "Administration",
+	"Projects": [
+		{
+			"Hours": "35.0",
+			"ProjectName": "Computerization",
+			"ProjectNumber": "10"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c06b"
+	},
+	"Emp_Fname": "Andrea",
+	"Emp_Lname": "Sondrini",
+	"Department_Name": "Research",
+	"Projects": [
+		{
+			"Hours": "45.0",
+			"ProjectName": "ProductZ",
+			"ProjectNumber": "3"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c06c"
+	},
+	"Emp_Fname": "Percy",
+	"Emp_Lname": "Liang",
+	"Department_Name": "HR",
+	"Projects": [
+		{
+			"Hours": "10.0",
+			"ProjectName": "Advertizing",
+			"ProjectNumber": "70"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c06d"
+	},
+	"Emp_Fname": "Leonard",
+	"Emp_Lname": "Moody",
+	"Department_Name": "Hardware",
+	"Projects": [
+		{
+			"Hours": "15.0",
+			"ProjectName": "MotherBoard",
+			"ProjectNumber": "29"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c06e"
+	},
+	"Emp_Fname": "Jisha",
+	"Emp_Lname": "Carpenter",
+	"Department_Name": "Headquarters",
+	"Projects": [
+		{
+			"Hours": "25.0",
+			"ProjectName": "ProductX",
+			"ProjectNumber": "1"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c06f"
+	},
+	"Emp_Fname": "Erin",
+	"Emp_Lname": "Maxfield",
+	"Department_Name": "Sales",
+	"Projects": [
+		{
+			"Hours": "20.0",
+			"ProjectName": "DatabaseSystems",
+			"ProjectNumber": "62"
+		},
+		{
+			"Hours": "20.0",
+			"ProjectName": "Advertizing",
+			"ProjectNumber": "70"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f2adf07c99f11844ab6c070"
+	},
+	"Emp_Fname": "James",
+	"Emp_Lname": "Miller",
+	"Department_Name": "Research",
+	"Projects": [
+		{
+			"Hours": "15.0",
+			"ProjectName": "MotherBoard",
+			"ProjectNumber": "29"
+		}
+	]
+}]

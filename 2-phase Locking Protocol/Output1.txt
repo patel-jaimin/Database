@@ -1,0 +1,97 @@
+-------------------------------------------------------------------------
+Input 1:
+
+-------------------------------------------------------------------------
+b1;
+
+Begin Transaction 1
+Transaction Timestamp 1
+-------------------------------------------------------------------------
+r1 (Y);
+
+Read operation
+Granting the ReadLock on the data item Y by Transaction 1
+-------------------------------------------------------------------------
+r1 (Z);
+
+Read operation
+Granting the ReadLock on the data item Z by Transaction 1
+-------------------------------------------------------------------------
+b2;
+
+Begin Transaction 2
+Transaction Timestamp 2
+-------------------------------------------------------------------------
+r2 (Y);
+
+Read operation
+Granting the ReadLock on the data item Y by Transaction 2
+-------------------------------------------------------------------------
+b3;
+
+Begin Transaction 3
+Transaction Timestamp 3
+-------------------------------------------------------------------------
+r3 (Y);
+
+Read operation
+Granting the ReadLock on the data item Y by Transaction 3
+-------------------------------------------------------------------------
+w1 (Z);
+
+write operation
+Upgrading Readlock to WriteLock on data item Z for Transaction 1
+-------------------------------------------------------------------------
+w3 (Y);
+
+write operation
+Changing transaction state for Transaction 3 to blocked
+-------------------------------------------------------------------------
+w2 (Y);
+
+write operation
+Changing transaction state for Transaction 2 to blocked
+Aborting Transaction 3
+Unlocking all resources held by transaction 3
+-------------------------------------------------------------------------
+r2 (X);
+
+Read operation
+Since Transaction is blocked r2 (X);
+ is added to waiting operation.
+-------------------------------------------------------------------------
+e1;
+
+end
+Committing transaction 1
+Unlocking all resources held by transaction 1
+Attempting operation w2 (Y);
+
+-------------------------------------------------------------------------
+w2 (Y);
+
+write operation
+Upgrading Readlock to WriteLock on data item Y for Transaction 2
+Attempting operation r2 (X);
+
+-------------------------------------------------------------------------
+r2 (X);
+
+Read operation
+Granting the ReadLock on the data item X by Transaction 2
+-------------------------------------------------------------------------
+e3;
+
+end
+Transaction 3 was Aborted.
+-------------------------------------------------------------------------
+w2 (X);
+
+write operation
+Upgrading Readlock to WriteLock on data item X for Transaction 2
+-------------------------------------------------------------------------
+e2;
+
+end
+Committing transaction 2
+Unlocking all resources held by transaction 2

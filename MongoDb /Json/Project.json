@@ -1,0 +1,110 @@
+[
+    {
+        "ProjectName": "ProductX",
+        "DepartmentNumber": "5",
+        "ProjectNumber": "1",
+        "ProjectLocation": "Bellaire"
+    },
+    {
+        "ProjectName": "ProductY",
+        "DepartmentNumber": "5",
+        "ProjectNumber": "2",
+        "ProjectLocation": "Sugarland"
+    },
+    {
+        "ProjectName": "ProductZ",
+        "DepartmentNumber": "5",
+        "ProjectNumber": "3",
+        "ProjectLocation": "Houston"
+    },
+    {
+        "ProjectName": "Computerization",
+        "DepartmentNumber": "4",
+        "ProjectNumber": "10",
+        "ProjectLocation": "Stafford"
+    },
+    {
+        "ProjectName": "Reorganization",
+        "DepartmentNumber": "1",
+        "ProjectNumber": "20",
+        "ProjectLocation": "Houston"
+    },
+    {
+        "ProjectName": "Newbenefits",
+        "DepartmentNumber": "4",
+        "ProjectNumber": "30",
+        "ProjectLocation": "Stafford"
+    },
+    {
+        "ProjectName": "OperatingSystem",
+        "DepartmentNumber": "6",
+        "ProjectNumber": "61",
+        "ProjectLocation": "Sacramento"
+    },
+    {
+        "ProjectName": "DatabaseSystems",
+        "DepartmentNumber": "6",
+        "ProjectNumber": "62",
+        "ProjectLocation": "Atlanta"
+    },
+    {
+        "ProjectName": "Middleware",
+        "DepartmentNumber": "6",
+        "ProjectNumber": "63",
+        "ProjectLocation": "Atlanta"
+    },
+    {
+        "ProjectName": "Advertizing",
+        "DepartmentNumber": "9",
+        "ProjectNumber": "70",
+        "ProjectLocation": "Arlington"
+    },
+    {
+        "ProjectName": "InkjetPrinters",
+        "DepartmentNumber": "7",
+        "ProjectNumber": "91",
+        "ProjectLocation": "Milwaukee"
+    },
+    {
+        "ProjectName": "LaserPrinters",
+        "DepartmentNumber": "7",
+        "ProjectNumber": "92",
+        "ProjectLocation": "Milwaukee"
+    },
+    {
+        "ProjectName": "Human1",
+        "DepartmentNumber": "9",
+        "ProjectNumber": "95",
+        "ProjectLocation": "Arlington"
+    },
+    {
+        "ProjectName": "SearchEngine",
+        "DepartmentNumber": "6",
+        "ProjectNumber": "22",
+        "ProjectLocation": "Arlington"
+    },
+    {
+        "ProjectName": "MotherBoard",
+        "DepartmentNumber": "7",
+        "ProjectNumber": "29",
+        "ProjectLocation": "Milwaukee"
+    },
+    {
+        "ProjectName": "EntityAnnot",
+        "DepartmentNumber": "5",
+        "ProjectNumber": "4",
+        "ProjectLocation": "Houston"
+    },
+    {
+        "ProjectName": "ConfigMgmt",
+        "DepartmentNumber": "6",
+        "ProjectNumber": "11",
+        "ProjectLocation": "Atlanta"
+    },
+    {
+        "ProjectName": "DataMining",
+        "DepartmentNumber": "6",
+        "ProjectNumber": "13",
+        "ProjectLocation": "Sacramento"
+    }
+]

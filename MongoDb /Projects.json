@@ -1,0 +1,655 @@
+[{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e584f"
+	},
+	"Project_Name": "LaserPrinters",
+	"Department_Name": "Hardware",
+	"Project_Number": "92",
+	"Employees": [
+		{
+			"LName": "James",
+			"Hours": "40.0",
+			"FName": "John"
+		},
+		{
+			"LName": "Ball",
+			"Hours": "44.0",
+			"FName": "Nandita"
+		},
+		{
+			"LName": "Kramer",
+			"Hours": "40.0",
+			"FName": "Jon"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "1.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Kirkish",
+			"Hours": "33.0",
+			"FName": "Joseph"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5850"
+	},
+	"Project_Name": "ProductY",
+	"Department_Name": "Research",
+	"Project_Number": "2",
+	"Employees": [
+		{
+			"LName": "Smith",
+			"Hours": "7.5",
+			"FName": "John"
+		},
+		{
+			"LName": "Wong",
+			"Hours": "10.0",
+			"FName": "Franklin"
+		},
+		{
+			"LName": "English",
+			"Hours": "20.0",
+			"FName": "Joyce"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "2.0",
+			"FName": "Roy"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5851"
+	},
+	"Project_Name": "Reorganization",
+	"Department_Name": "Headquarters",
+	"Project_Number": "20",
+	"Employees": [
+		{
+			"LName": "Borg",
+			"Hours": "5.0",
+			"FName": "James"
+		},
+		{
+			"LName": "Wallace",
+			"Hours": "15.0",
+			"FName": "Jennifer"
+		},
+		{
+			"LName": "Wong",
+			"Hours": "10.0",
+			"FName": "Franklin"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "4.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Smith",
+			"Hours": "10.0",
+			"FName": "Johny"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5852"
+	},
+	"Project_Name": "ProductX",
+	"Department_Name": "Research",
+	"Project_Number": "1",
+	"Employees": [
+		{
+			"LName": "Smith",
+			"Hours": "32.5",
+			"FName": "John"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "2.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "English",
+			"Hours": "20.0",
+			"FName": "Joyce"
+		},
+		{
+			"LName": "Carpenter",
+			"Hours": "25.0",
+			"FName": "Jisha"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5853"
+	},
+	"Project_Name": "Human1",
+	"Department_Name": "HR",
+	"Project_Number": "95",
+	"Employees": [
+		{
+			"LName": "Cucuou",
+			"Hours": "23.0",
+			"FName": "Sheldon"
+		},
+		{
+			"LName": "Mary",
+			"Hours": "35.0",
+			"FName": "willie"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "3.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Linda",
+			"Hours": "40.0",
+			"FName": "Juan"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5854"
+	},
+	"Project_Name": "SearchEngine",
+	"Department_Name": "Software",
+	"Project_Number": "22",
+	"Employees": [
+		{
+			"LName": "Wolowitz",
+			"Hours": "4.0",
+			"FName": "Penny"
+		},
+		{
+			"LName": "Geller",
+			"Hours": "30.0",
+			"FName": "Zach"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5855"
+	},
+	"Project_Name": "EntityAnnot",
+	"Department_Name": "Research",
+	"Project_Number": "4",
+	"Employees": [
+		{
+			"LName": "Morgan",
+			"Hours": "11.0",
+			"FName": "Michael"
+		},
+		{
+			"LName": "Holmes",
+			"Hours": "5.0",
+			"FName": "Wilson"
+		},
+		{
+			"LName": "Thirteen",
+			"Hours": "45.0",
+			"FName": "Cameron"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5856"
+	},
+	"Project_Name": "MotherBoard",
+	"Department_Name": "Hardware",
+	"Project_Number": "29",
+	"Employees": [
+		{
+			"LName": "House",
+			"Hours": "10.0",
+			"FName": "Lisa"
+		},
+		{
+			"LName": "Miller",
+			"Hours": "15.0",
+			"FName": "James"
+		},
+		{
+			"LName": "Moody",
+			"Hours": "15.0",
+			"FName": "Leonard"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5857"
+	},
+	"Project_Name": "ConfigMgmt",
+	"Department_Name": "Software",
+	"Project_Number": "11",
+	"Employees": [
+		{
+			"LName": "Hall",
+			"Hours": "20.0",
+			"FName": "Debra"
+		},
+		{
+			"LName": "Sheen",
+			"Hours": "25.0",
+			"FName": "Jake"
+		},
+		{
+			"LName": "Holmes",
+			"Hours": "20.0",
+			"FName": "Wilson"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5858"
+	},
+	"Project_Name": "DataMining",
+	"Department_Name": "Software",
+	"Project_Number": "13",
+	"Employees": [
+		{
+			"LName": "Yu",
+			"Hours": "18.0",
+			"FName": "Alex"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5859"
+	},
+	"Project_Name": "Computerization",
+	"Department_Name": "Administration",
+	"Project_Number": "10",
+	"Employees": [
+		{
+			"LName": "Jabbar",
+			"Hours": "35.0",
+			"FName": "Ahmad"
+		},
+		{
+			"LName": "Zelaya",
+			"Hours": "10.0",
+			"FName": "Alicia"
+		},
+		{
+			"LName": "Wong",
+			"Hours": "10.0",
+			"FName": "Franklin"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "4.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Koelbel",
+			"Hours": "35.0",
+			"FName": "Richard"
+		},
+		{
+			"LName": "Sheen",
+			"Hours": "25.0",
+			"FName": "Jake"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e585a"
+	},
+	"Project_Name": "Advertizing",
+	"Department_Name": "HR",
+	"Project_Number": "70",
+	"Employees": [
+		{
+			"LName": "Maxfield",
+			"Hours": "20.0",
+			"FName": "Erin"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "2.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Jones",
+			"Hours": "40.0",
+			"FName": "Megan"
+		},
+		{
+			"LName": "Liang",
+			"Hours": "10.0",
+			"FName": "Percy"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e585b"
+	},
+	"Project_Name": "Middleware",
+	"Department_Name": "Software",
+	"Project_Number": "63",
+	"Employees": [
+		{
+			"LName": "Grace",
+			"Hours": "40.0",
+			"FName": "Kim"
+		},
+		{
+			"LName": "Chase",
+			"Hours": "46.0",
+			"FName": "Jeff"
+		},
+		{
+			"LName": "Pataki",
+			"Hours": "40.0",
+			"FName": "Helga"
+		},
+		{
+			"LName": "Bacher",
+			"Hours": "10.0",
+			"FName": "Red"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "4.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Joy",
+			"Hours": "20.0",
+			"FName": "Jennifer"
+		},
+		{
+			"LName": "Barbara",
+			"Hours": "40.0",
+			"FName": "Jose"
+		},
+		{
+			"LName": "Laurie",
+			"Hours": "25.0",
+			"FName": "Gregory"
+		},
+		{
+			"LName": "Burklow",
+			"Hours": "25.0",
+			"FName": "Cindy"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e585c"
+	},
+	"Project_Name": "DatabaseSystems",
+	"Department_Name": "Software",
+	"Project_Number": "62",
+	"Employees": [
+		{
+			"LName": "Zell",
+			"Hours": "48.0",
+			"FName": "Josh"
+		},
+		{
+			"LName": "Vile",
+			"Hours": "40.0",
+			"FName": "Andy"
+		},
+		{
+			"LName": "Wallis",
+			"Hours": "40.0",
+			"FName": "Evan"
+		},
+		{
+			"LName": "Maxfield",
+			"Hours": "20.0",
+			"FName": "Erin"
+		},
+		{
+			"LName": "Vos",
+			"Hours": "40.0",
+			"FName": "Jenny"
+		},
+		{
+			"LName": "Carter",
+			"Hours": "40.0",
+			"FName": "Chris"
+		},
+		{
+			"LName": "Head",
+			"Hours": "40.0",
+			"FName": "Arnold"
+		},
+		{
+			"LName": "Bacher",
+			"Hours": "10.0",
+			"FName": "Red"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "4.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Brand",
+			"Hours": "40.0",
+			"FName": "Tom"
+		},
+		{
+			"LName": "Ted",
+			"Hours": "25.0",
+			"FName": "Kim"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e585d"
+	},
+	"Project_Name": "OperatingSystem",
+	"Department_Name": "Software",
+	"Project_Number": "61",
+	"Employees": [
+		{
+			"LName": "Knight",
+			"Hours": "40.0",
+			"FName": "Brad"
+		},
+		{
+			"LName": "Mark",
+			"Hours": "40.0",
+			"FName": "Justin"
+		},
+		{
+			"LName": "James",
+			"Hours": "40.0",
+			"FName": "Jared"
+		},
+		{
+			"LName": "Jones",
+			"Hours": "40.0",
+			"FName": "Jon"
+		},
+		{
+			"LName": "Small",
+			"Hours": "40.0",
+			"FName": "Gerald"
+		},
+		{
+			"LName": "Drew",
+			"Hours": "40.0",
+			"FName": "Naveen"
+		},
+		{
+			"LName": "Reedy",
+			"Hours": "40.0",
+			"FName": "Carl"
+		},
+		{
+			"LName": "Bacher",
+			"Hours": "30.0",
+			"FName": "Red"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "4.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Hall",
+			"Hours": "40.0",
+			"FName": "Sammy"
+		},
+		{
+			"LName": "Hisel",
+			"Hours": "4.0",
+			"FName": "Christina"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e585e"
+	},
+	"Project_Name": "Newbenefits",
+	"Department_Name": "Administration",
+	"Project_Number": "30",
+	"Employees": [
+		{
+			"LName": "Zelaya",
+			"Hours": "30.0",
+			"FName": "Alicia"
+		},
+		{
+			"LName": "Jabbar",
+			"Hours": "5.0",
+			"FName": "Ahmad"
+		},
+		{
+			"LName": "Wallace",
+			"Hours": "20.0",
+			"FName": "Jennifer"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "4.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Smith",
+			"Hours": "25.0",
+			"FName": "Johny"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e585f"
+	},
+	"Project_Name": "InkjetPrinters",
+	"Department_Name": "Hardware",
+	"Project_Number": "91",
+	"Employees": [
+		{
+			"LName": "Freed",
+			"Hours": "40.0",
+			"FName": "Alex"
+		},
+		{
+			"LName": "Snedden",
+			"Hours": "40.0",
+			"FName": "Sam"
+		},
+		{
+			"LName": "Best",
+			"Hours": "40.0",
+			"FName": "Alec"
+		},
+		{
+			"LName": "Bays",
+			"Hours": "40.0",
+			"FName": "Bonnie"
+		},
+		{
+			"LName": "Jarvis",
+			"Hours": "40.0",
+			"FName": "Jill"
+		},
+		{
+			"LName": "King",
+			"Hours": "40.0",
+			"FName": "Billie"
+		},
+		{
+			"LName": "Leslie",
+			"Hours": "40.0",
+			"FName": "Lyle"
+		},
+		{
+			"LName": "King",
+			"Hours": "40.0",
+			"FName": "Ray"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "2.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Ed",
+			"Hours": "10.0",
+			"FName": "John"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5f29b91bfd1138c3311e5860"
+	},
+	"Project_Name": "ProductZ",
+	"Department_Name": "Research",
+	"Project_Number": "3",
+	"Employees": [
+		{
+			"LName": "Narayan",
+			"Hours": "40.0",
+			"FName": "Ramesh"
+		},
+		{
+			"LName": "Wong",
+			"Hours": "10.0",
+			"FName": "Franklin"
+		},
+		{
+			"LName": "Lewallen",
+			"Hours": "4.0",
+			"FName": "Roy"
+		},
+		{
+			"LName": "Sondrini",
+			"Hours": "45.0",
+			"FName": "Andrea"
+		},
+		{
+			"LName": "Smith",
+			"Hours": "10.0",
+			"FName": "Johny"
+		}
+	]
+}]

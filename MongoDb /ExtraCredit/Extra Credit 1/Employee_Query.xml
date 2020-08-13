@@ -1,0 +1,1185 @@
+<?xml version="1.0" ?>
+<Employees>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c02a</key>
+		</_id>
+		<Emp_Fname type="str">Jennifer</Emp_Fname>
+		<Emp_Lname type="str">Wallace</Emp_Lname>
+		<Department_Name type="str">Administration</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">20.0</Hours>
+				<ProjectName type="str">Newbenefits</ProjectName>
+				<ProjectNumber type="str">30</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">15.0</Hours>
+				<ProjectName type="str">Reorganization</ProjectName>
+				<ProjectNumber type="str">20</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c02b</key>
+		</_id>
+		<Emp_Fname type="str">Franklin</Emp_Fname>
+		<Emp_Lname type="str">Wong</Emp_Lname>
+		<Department_Name type="str">Research</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">ProductZ</ProjectName>
+				<ProjectNumber type="str">3</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">Computerization</ProjectName>
+				<ProjectNumber type="str">10</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">ProductY</ProjectName>
+				<ProjectNumber type="str">2</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">Reorganization</ProjectName>
+				<ProjectNumber type="str">20</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c02c</key>
+		</_id>
+		<Emp_Fname type="str">Ramesh</Emp_Fname>
+		<Emp_Lname type="str">Narayan</Emp_Lname>
+		<Department_Name type="str">Research</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">ProductZ</ProjectName>
+				<ProjectNumber type="str">3</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c02d</key>
+		</_id>
+		<Emp_Fname type="str">Jon</Emp_Fname>
+		<Emp_Lname type="str">Jones</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c02e</key>
+		</_id>
+		<Emp_Fname type="str">Justin</Emp_Fname>
+		<Emp_Lname type="str">Mark</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c02f</key>
+		</_id>
+		<Emp_Fname type="str">James</Emp_Fname>
+		<Emp_Lname type="str">Borg</Emp_Lname>
+		<Department_Name type="str">Headquarters</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">5.0</Hours>
+				<ProjectName type="str">Reorganization</ProjectName>
+				<ProjectNumber type="str">20</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c030</key>
+		</_id>
+		<Emp_Fname type="str">Brad</Emp_Fname>
+		<Emp_Lname type="str">Knight</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c031</key>
+		</_id>
+		<Emp_Fname type="str">John</Emp_Fname>
+		<Emp_Lname type="str">Smith</Emp_Lname>
+		<Department_Name type="str">Research</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">7.5</Hours>
+				<ProjectName type="str">ProductY</ProjectName>
+				<ProjectNumber type="str">2</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">32.5</Hours>
+				<ProjectName type="str">ProductX</ProjectName>
+				<ProjectNumber type="str">1</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c032</key>
+		</_id>
+		<Emp_Fname type="str">Andy</Emp_Fname>
+		<Emp_Lname type="str">Vile</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c033</key>
+		</_id>
+		<Emp_Fname type="str">Jenny</Emp_Fname>
+		<Emp_Lname type="str">Vos</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c034</key>
+		</_id>
+		<Emp_Fname type="str">Josh</Emp_Fname>
+		<Emp_Lname type="str">Zell</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">48.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c035</key>
+		</_id>
+		<Emp_Fname type="str">Evan</Emp_Fname>
+		<Emp_Lname type="str">Wallis</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c036</key>
+		</_id>
+		<Emp_Fname type="str">Tom</Emp_Fname>
+		<Emp_Lname type="str">Brand</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c037</key>
+		</_id>
+		<Emp_Fname type="str">Chris</Emp_Fname>
+		<Emp_Lname type="str">Carter</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c038</key>
+		</_id>
+		<Emp_Fname type="str">Kim</Emp_Fname>
+		<Emp_Lname type="str">Grace</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">Middleware</ProjectName>
+				<ProjectNumber type="str">63</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c039</key>
+		</_id>
+		<Emp_Fname type="str">Bonnie</Emp_Fname>
+		<Emp_Lname type="str">Bays</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c03a</key>
+		</_id>
+		<Emp_Fname type="str">Jeff</Emp_Fname>
+		<Emp_Lname type="str">Chase</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">46.0</Hours>
+				<ProjectName type="str">Middleware</ProjectName>
+				<ProjectNumber type="str">63</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c03b</key>
+		</_id>
+		<Emp_Fname type="str">Alec</Emp_Fname>
+		<Emp_Lname type="str">Best</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c03c</key>
+		</_id>
+		<Emp_Fname type="str">Sam</Emp_Fname>
+		<Emp_Lname type="str">Snedden</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c03d</key>
+		</_id>
+		<Emp_Fname type="str">John</Emp_Fname>
+		<Emp_Lname type="str">James</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">LaserPrinters</ProjectName>
+				<ProjectNumber type="str">92</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c03e</key>
+		</_id>
+		<Emp_Fname type="str">Nandita</Emp_Fname>
+		<Emp_Lname type="str">Ball</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">44.0</Hours>
+				<ProjectName type="str">LaserPrinters</ProjectName>
+				<ProjectNumber type="str">92</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c03f</key>
+		</_id>
+		<Emp_Fname type="str">Ahmad</Emp_Fname>
+		<Emp_Lname type="str">Jabbar</Emp_Lname>
+		<Department_Name type="str">Administration</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">35.0</Hours>
+				<ProjectName type="str">Computerization</ProjectName>
+				<ProjectNumber type="str">10</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">5.0</Hours>
+				<ProjectName type="str">Newbenefits</ProjectName>
+				<ProjectNumber type="str">30</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c040</key>
+		</_id>
+		<Emp_Fname type="str">Alicia</Emp_Fname>
+		<Emp_Lname type="str">Zelaya</Emp_Lname>
+		<Department_Name type="str">Administration</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">30.0</Hours>
+				<ProjectName type="str">Newbenefits</ProjectName>
+				<ProjectNumber type="str">30</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">Computerization</ProjectName>
+				<ProjectNumber type="str">10</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c041</key>
+		</_id>
+		<Emp_Fname type="str">Jill</Emp_Fname>
+		<Emp_Lname type="str">Jarvis</Emp_Lname>
+		<Department_Name type="str">HR</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c042</key>
+		</_id>
+		<Emp_Fname type="str">Jared</Emp_Fname>
+		<Emp_Lname type="str">James</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c043</key>
+		</_id>
+		<Emp_Fname type="str">Kate</Emp_Fname>
+		<Emp_Lname type="str">King</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list"/>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c044</key>
+		</_id>
+		<Emp_Fname type="str">Billie</Emp_Fname>
+		<Emp_Lname type="str">King</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c045</key>
+		</_id>
+		<Emp_Fname type="str">Megan</Emp_Fname>
+		<Emp_Lname type="str">Jones</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">Advertizing</ProjectName>
+				<ProjectNumber type="str">70</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c046</key>
+		</_id>
+		<Emp_Fname type="str">Sammy</Emp_Fname>
+		<Emp_Lname type="str">Hall</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c047</key>
+		</_id>
+		<Emp_Fname type="str">Ray</Emp_Fname>
+		<Emp_Lname type="str">King</Emp_Lname>
+		<Department_Name type="str">HR</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c048</key>
+		</_id>
+		<Emp_Fname type="str">Naveen</Emp_Fname>
+		<Emp_Lname type="str">Drew</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c049</key>
+		</_id>
+		<Emp_Fname type="str">Lyle</Emp_Fname>
+		<Emp_Lname type="str">Leslie</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c04a</key>
+		</_id>
+		<Emp_Fname type="str">Carl</Emp_Fname>
+		<Emp_Lname type="str">Reedy</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c04b</key>
+		</_id>
+		<Emp_Fname type="str">Alex</Emp_Fname>
+		<Emp_Lname type="str">Freed</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c04c</key>
+		</_id>
+		<Emp_Fname type="str">Roy</Emp_Fname>
+		<Emp_Lname type="str">Lewallen</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">2.0</Hours>
+				<ProjectName type="str">ProductY</ProjectName>
+				<ProjectNumber type="str">2</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">4.0</Hours>
+				<ProjectName type="str">ProductZ</ProjectName>
+				<ProjectNumber type="str">3</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">2.0</Hours>
+				<ProjectName type="str">ProductX</ProjectName>
+				<ProjectNumber type="str">1</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">4.0</Hours>
+				<ProjectName type="str">Computerization</ProjectName>
+				<ProjectNumber type="str">10</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">4.0</Hours>
+				<ProjectName type="str">Reorganization</ProjectName>
+				<ProjectNumber type="str">20</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">4.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">4.0</Hours>
+				<ProjectName type="str">Newbenefits</ProjectName>
+				<ProjectNumber type="str">30</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">4.0</Hours>
+				<ProjectName type="str">Middleware</ProjectName>
+				<ProjectNumber type="str">63</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">4.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">2.0</Hours>
+				<ProjectName type="str">Advertizing</ProjectName>
+				<ProjectNumber type="str">70</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">2.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">1.0</Hours>
+				<ProjectName type="str">LaserPrinters</ProjectName>
+				<ProjectNumber type="str">92</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">3.0</Hours>
+				<ProjectName type="str">Human1</ProjectName>
+				<ProjectNumber type="str">95</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c04d</key>
+		</_id>
+		<Emp_Fname type="str">Arnold</Emp_Fname>
+		<Emp_Lname type="str">Head</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c04e</key>
+		</_id>
+		<Emp_Fname type="str">Red</Emp_Fname>
+		<Emp_Lname type="str">Bacher</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">30.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">Middleware</ProjectName>
+				<ProjectNumber type="str">63</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c04f</key>
+		</_id>
+		<Emp_Fname type="str">Gerald</Emp_Fname>
+		<Emp_Lname type="str">Small</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c050</key>
+		</_id>
+		<Emp_Fname type="str">Joyce</Emp_Fname>
+		<Emp_Lname type="str">English</Emp_Lname>
+		<Department_Name type="str">Research</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">20.0</Hours>
+				<ProjectName type="str">ProductY</ProjectName>
+				<ProjectNumber type="str">2</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">20.0</Hours>
+				<ProjectName type="str">ProductX</ProjectName>
+				<ProjectNumber type="str">1</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c051</key>
+		</_id>
+		<Emp_Fname type="str">Jon</Emp_Fname>
+		<Emp_Lname type="str">Kramer</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">LaserPrinters</ProjectName>
+				<ProjectNumber type="str">92</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c052</key>
+		</_id>
+		<Emp_Fname type="str">Helga</Emp_Fname>
+		<Emp_Lname type="str">Pataki</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">Middleware</ProjectName>
+				<ProjectNumber type="str">63</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c053</key>
+		</_id>
+		<Emp_Fname type="str">Bob</Emp_Fname>
+		<Emp_Lname type="str">Bender</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list"/>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c054</key>
+		</_id>
+		<Emp_Fname type="str">John</Emp_Fname>
+		<Emp_Lname type="str">Ed</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">InkjetPrinters</ProjectName>
+				<ProjectNumber type="str">91</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c055</key>
+		</_id>
+		<Emp_Fname type="str">Jennifer</Emp_Fname>
+		<Emp_Lname type="str">Joy</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">20.0</Hours>
+				<ProjectName type="str">Middleware</ProjectName>
+				<ProjectNumber type="str">63</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c056</key>
+		</_id>
+		<Emp_Fname type="str">Johny</Emp_Fname>
+		<Emp_Lname type="str">Smith</Emp_Lname>
+		<Department_Name type="str">HR</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">ProductZ</ProjectName>
+				<ProjectNumber type="str">3</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">Reorganization</ProjectName>
+				<ProjectNumber type="str">20</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">25.0</Hours>
+				<ProjectName type="str">Newbenefits</ProjectName>
+				<ProjectNumber type="str">30</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c057</key>
+		</_id>
+		<Emp_Fname type="str">Jose</Emp_Fname>
+		<Emp_Lname type="str">Barbara</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">Middleware</ProjectName>
+				<ProjectNumber type="str">63</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c058</key>
+		</_id>
+		<Emp_Fname type="str">Juan</Emp_Fname>
+		<Emp_Lname type="str">Linda</Emp_Lname>
+		<Department_Name type="str">HR</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">40.0</Hours>
+				<ProjectName type="str">Human1</ProjectName>
+				<ProjectNumber type="str">95</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c059</key>
+		</_id>
+		<Emp_Fname type="str">Penny</Emp_Fname>
+		<Emp_Lname type="str">Wolowitz</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">4.0</Hours>
+				<ProjectName type="str">SearchEngine</ProjectName>
+				<ProjectNumber type="str">22</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c05a</key>
+		</_id>
+		<Emp_Fname type="str">Sunil</Emp_Fname>
+		<Emp_Lname type="str">Gupta</Emp_Lname>
+		<Department_Name type="str">Networking</Department_Name>
+		<Projects type="list"/>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c05b</key>
+		</_id>
+		<Emp_Fname type="str">Kim</Emp_Fname>
+		<Emp_Lname type="str">Ted</Emp_Lname>
+		<Department_Name type="str">HR</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">25.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c05c</key>
+		</_id>
+		<Emp_Fname type="str">Michael</Emp_Fname>
+		<Emp_Lname type="str">Morgan</Emp_Lname>
+		<Department_Name type="str">Research</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">11.0</Hours>
+				<ProjectName type="str">EntityAnnot</ProjectName>
+				<ProjectNumber type="str">4</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c05d</key>
+		</_id>
+		<Emp_Fname type="str">willie</Emp_Fname>
+		<Emp_Lname type="str">Mary</Emp_Lname>
+		<Department_Name type="str">HR</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">35.0</Hours>
+				<ProjectName type="str">Human1</ProjectName>
+				<ProjectNumber type="str">95</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c05e</key>
+		</_id>
+		<Emp_Fname type="str">Sheldon</Emp_Fname>
+		<Emp_Lname type="str">Cucuou</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">23.0</Hours>
+				<ProjectName type="str">Human1</ProjectName>
+				<ProjectNumber type="str">95</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c05f</key>
+		</_id>
+		<Emp_Fname type="str">Jake</Emp_Fname>
+		<Emp_Lname type="str">Sheen</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">25.0</Hours>
+				<ProjectName type="str">ConfigMgmt</ProjectName>
+				<ProjectNumber type="str">11</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">25.0</Hours>
+				<ProjectName type="str">Computerization</ProjectName>
+				<ProjectNumber type="str">10</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c060</key>
+		</_id>
+		<Emp_Fname type="str">Wilson</Emp_Fname>
+		<Emp_Lname type="str">Holmes</Emp_Lname>
+		<Department_Name type="str">Administration</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">5.0</Hours>
+				<ProjectName type="str">EntityAnnot</ProjectName>
+				<ProjectNumber type="str">4</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">20.0</Hours>
+				<ProjectName type="str">ConfigMgmt</ProjectName>
+				<ProjectNumber type="str">11</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c061</key>
+		</_id>
+		<Emp_Fname type="str">Debra</Emp_Fname>
+		<Emp_Lname type="str">Hall</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">20.0</Hours>
+				<ProjectName type="str">ConfigMgmt</ProjectName>
+				<ProjectNumber type="str">11</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c062</key>
+		</_id>
+		<Emp_Fname type="str">Gregory</Emp_Fname>
+		<Emp_Lname type="str">Laurie</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">25.0</Hours>
+				<ProjectName type="str">Middleware</ProjectName>
+				<ProjectNumber type="str">63</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c063</key>
+		</_id>
+		<Emp_Fname type="str">Cameron</Emp_Fname>
+		<Emp_Lname type="str">Thirteen</Emp_Lname>
+		<Department_Name type="str">Administration</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">45.0</Hours>
+				<ProjectName type="str">EntityAnnot</ProjectName>
+				<ProjectNumber type="str">4</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c064</key>
+		</_id>
+		<Emp_Fname type="str">Joseph</Emp_Fname>
+		<Emp_Lname type="str">Kirkish</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">33.0</Hours>
+				<ProjectName type="str">LaserPrinters</ProjectName>
+				<ProjectNumber type="str">92</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c065</key>
+		</_id>
+		<Emp_Fname type="str">Cindy</Emp_Fname>
+		<Emp_Lname type="str">Burklow</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">25.0</Hours>
+				<ProjectName type="str">Middleware</ProjectName>
+				<ProjectNumber type="str">63</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c066</key>
+		</_id>
+		<Emp_Fname type="str">Zach</Emp_Fname>
+		<Emp_Lname type="str">Geller</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">30.0</Hours>
+				<ProjectName type="str">SearchEngine</ProjectName>
+				<ProjectNumber type="str">22</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c067</key>
+		</_id>
+		<Emp_Fname type="str">Christina</Emp_Fname>
+		<Emp_Lname type="str">Hisel</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">4.0</Hours>
+				<ProjectName type="str">OperatingSystem</ProjectName>
+				<ProjectNumber type="str">61</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c068</key>
+		</_id>
+		<Emp_Fname type="str">Lisa</Emp_Fname>
+		<Emp_Lname type="str">House</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">MotherBoard</ProjectName>
+				<ProjectNumber type="str">29</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c069</key>
+		</_id>
+		<Emp_Fname type="str">Alex</Emp_Fname>
+		<Emp_Lname type="str">Yu</Emp_Lname>
+		<Department_Name type="str">Software</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">18.0</Hours>
+				<ProjectName type="str">DataMining</ProjectName>
+				<ProjectNumber type="str">13</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c06a</key>
+		</_id>
+		<Emp_Fname type="str">Richard</Emp_Fname>
+		<Emp_Lname type="str">Koelbel</Emp_Lname>
+		<Department_Name type="str">Administration</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">35.0</Hours>
+				<ProjectName type="str">Computerization</ProjectName>
+				<ProjectNumber type="str">10</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c06b</key>
+		</_id>
+		<Emp_Fname type="str">Andrea</Emp_Fname>
+		<Emp_Lname type="str">Sondrini</Emp_Lname>
+		<Department_Name type="str">Research</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">45.0</Hours>
+				<ProjectName type="str">ProductZ</ProjectName>
+				<ProjectNumber type="str">3</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c06c</key>
+		</_id>
+		<Emp_Fname type="str">Percy</Emp_Fname>
+		<Emp_Lname type="str">Liang</Emp_Lname>
+		<Department_Name type="str">HR</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">10.0</Hours>
+				<ProjectName type="str">Advertizing</ProjectName>
+				<ProjectNumber type="str">70</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c06d</key>
+		</_id>
+		<Emp_Fname type="str">Leonard</Emp_Fname>
+		<Emp_Lname type="str">Moody</Emp_Lname>
+		<Department_Name type="str">Hardware</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">15.0</Hours>
+				<ProjectName type="str">MotherBoard</ProjectName>
+				<ProjectNumber type="str">29</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c06e</key>
+		</_id>
+		<Emp_Fname type="str">Jisha</Emp_Fname>
+		<Emp_Lname type="str">Carpenter</Emp_Lname>
+		<Department_Name type="str">Headquarters</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">25.0</Hours>
+				<ProjectName type="str">ProductX</ProjectName>
+				<ProjectNumber type="str">1</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c06f</key>
+		</_id>
+		<Emp_Fname type="str">Erin</Emp_Fname>
+		<Emp_Lname type="str">Maxfield</Emp_Lname>
+		<Department_Name type="str">Sales</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">20.0</Hours>
+				<ProjectName type="str">DatabaseSystems</ProjectName>
+				<ProjectNumber type="str">62</ProjectNumber>
+			</item>
+			<item type="dict">
+				<Hours type="str">20.0</Hours>
+				<ProjectName type="str">Advertizing</ProjectName>
+				<ProjectNumber type="str">70</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+	<item type="dict">
+		<_id type="dict">
+			<key name="$oid" type="str">5f2adf07c99f11844ab6c070</key>
+		</_id>
+		<Emp_Fname type="str">James</Emp_Fname>
+		<Emp_Lname type="str">Miller</Emp_Lname>
+		<Department_Name type="str">Research</Department_Name>
+		<Projects type="list">
+			<item type="dict">
+				<Hours type="str">15.0</Hours>
+				<ProjectName type="str">MotherBoard</ProjectName>
+				<ProjectNumber type="str">29</ProjectNumber>
+			</item>
+		</Projects>
+	</item>
+</Employees>

@@ -1,0 +1,62 @@
+[
+    {
+        "DepartmentNumber": "1",
+        "DepartmentLocation": "Houston"
+    },
+    {
+        "DepartmentNumber": "4",
+        "DepartmentLocation": "Stafford"
+    },
+    {
+        "DepartmentNumber": "5",
+        "DepartmentLocation": "Bellaire"
+    },
+    {
+        "DepartmentNumber": "5",
+        "DepartmentLocation": "Sugarland"
+    },
+    {
+        "DepartmentNumber": "5",
+        "DepartmentLocation": "Houston"
+    },
+    {
+        "DepartmentNumber": "6",
+        "DepartmentLocation": "Atlanta"
+    },
+    {
+        "DepartmentNumber": "6",
+        "DepartmentLocation": "Sacramento"
+    },
+    {
+        "DepartmentNumber": "7",
+        "DepartmentLocation": "Milwaukee"
+    },
+    {
+        "DepartmentNumber": "8",
+        "DepartmentLocation": "Chicago"
+    },
+    {
+        "DepartmentNumber": "8",
+        "DepartmentLocation": "Dallas"
+    },
+    {
+        "DepartmentNumber": "8",
+        "DepartmentLocation": "Philadephia"
+    },
+    {
+        "DepartmentNumber": "8",
+        "DepartmentLocation": "Seattle"
+    },
+    {
+        "DepartmentNumber": "8",
+        "DepartmentLocation": "Miami"
+    },
+    {
+        "DepartmentNumber": "9",
+        "DepartmentLocation": "Arlington"
+    },
+    {
+        "DepartmentNumber": "11",
+        "DepartmentLocation": "Austin"
+    }
+]

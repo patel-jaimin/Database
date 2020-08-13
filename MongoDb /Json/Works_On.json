@@ -1,0 +1,477 @@
+[
+    {
+        "ProjectHours": "32.5",
+        "EmployeeSSN": "123456789",
+        "ProjectNumber": "1"
+    },
+    {
+        "ProjectHours": "7.5",
+        "EmployeeSSN": "123456789",
+        "ProjectNumber": "2"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666884444",
+        "ProjectNumber": "3"
+    },
+    {
+        "ProjectHours": "20.0",
+        "EmployeeSSN": "453453453",
+        "ProjectNumber": "1"
+    },
+    {
+        "ProjectHours": "20.0",
+        "EmployeeSSN": "453453453",
+        "ProjectNumber": "2"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "333445555",
+        "ProjectNumber": "2"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "333445555", 
+        "ProjectNumber": "3"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "333445555",
+        "ProjectNumber": "10"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "333445555",
+        "ProjectNumber": "20"
+    },
+    {
+        "ProjectHours": "20.0",
+        "EmployeeSSN": "242535609",
+        "ProjectNumber": "70"
+    },
+    {
+        "ProjectHours": "20.0",
+        "EmployeeSSN": "242535609",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "30.0",
+        "EmployeeSSN": "999887777",
+        "ProjectNumber": "30"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "999887777",
+        "ProjectNumber": "10"
+    },
+    {
+        "ProjectHours": "35.0",
+        "EmployeeSSN": "987987987",
+        "ProjectNumber": "10"
+    },
+    {
+        "ProjectHours": "5.0",
+        "EmployeeSSN": "987987987",
+        "ProjectNumber": "30"
+    },
+    {
+        "ProjectHours": "20.0",
+        "EmployeeSSN": "987654321",
+        "ProjectNumber": "30"
+    },
+    {
+        "ProjectHours": "15.0",
+        "EmployeeSSN": "987654321",
+        "ProjectNumber": "20"
+    },
+    {
+        "ProjectHours": "5.0",
+        "EmployeeSSN": "888665555",
+        "ProjectNumber": "20"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "111111100",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "111111101",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "111111102",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "111111103",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "222222200",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "48.0",
+        "EmployeeSSN": "222222201",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "222222202",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "222222203",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "222222204",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "222222205",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "333333300",
+        "ProjectNumber": "63"
+    },
+    {
+        "ProjectHours": "46.0",
+        "EmployeeSSN": "333333301",
+        "ProjectNumber": "63"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "444444400",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "444444401",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "444444402",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "444444403",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "555555500",
+        "ProjectNumber": "92"
+    },
+    {
+        "ProjectHours": "44.0",
+        "EmployeeSSN": "555555501",
+        "ProjectNumber": "92"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666601",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666603",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666604",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666605",
+        "ProjectNumber": "92"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666606",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666607",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666608",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666609",
+        "ProjectNumber": "63"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666610",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666611",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "666666612",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "30.0",
+        "EmployeeSSN": "666666613",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "666666613",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "666666613",
+        "ProjectNumber": "63"
+    },
+    {
+        "ProjectHours": "2.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "1"
+    },
+    {
+        "ProjectHours": "2.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "2"
+    },
+    {
+        "ProjectHours": "4.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "3"
+    },
+    {
+        "ProjectHours": "4.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "10"
+    },
+    {
+        "ProjectHours": "4.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "20"
+    },
+    {
+        "ProjectHours": "4.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "30"
+    },
+    {
+        "ProjectHours": "4.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "4.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "4.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "63"
+    },
+    {
+        "ProjectHours": "2.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "70"
+    },
+    {
+        "ProjectHours": "2.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "1.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "92"
+    },
+    {
+        "ProjectHours": "3.0",
+        "EmployeeSSN": "999999999",
+        "ProjectNumber": "95"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "254937381",
+        "ProjectNumber": "70"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "222333444",
+        "ProjectNumber": "91"
+    },
+    {
+        "ProjectHours": "20.0",
+        "EmployeeSSN": "223344667",
+        "ProjectNumber": "63"
+    },
+    {
+        "ProjectHours": "25.0",
+        "EmployeeSSN": "444222666",
+        "ProjectNumber": "62"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "112244668",
+        "ProjectNumber": "95"
+    },
+    {
+        "ProjectHours": "40.0",
+        "EmployeeSSN": "343434344",
+        "ProjectNumber": "63"
+    },
+    {
+        "ProjectHours": "35.0",
+        "EmployeeSSN": "234234234",
+        "ProjectNumber": "95"
+    },
+    {
+        "ProjectHours": "33.0",
+        "EmployeeSSN": "913323708",
+        "ProjectNumber": "92"
+    },
+    {
+        "ProjectHours": "11.0",
+        "EmployeeSSN": "636669233",
+        "ProjectNumber": "4"
+    },
+    {
+        "ProjectHours": "45.0",
+        "EmployeeSSN": "614370310",
+        "ProjectNumber": "3"
+    },
+    {
+        "ProjectHours": "23.0",
+        "EmployeeSSN": "849934919",
+        "ProjectNumber": "95"
+    },
+    {
+        "ProjectHours": "25.0",
+        "EmployeeSSN": "432765098",
+        "ProjectNumber": "63"
+    },
+    {
+        "ProjectHours": "25.0",
+        "EmployeeSSN": "444212096",
+        "ProjectNumber": "63"
+    },
+    {
+        "ProjectHours": "30.0",
+        "EmployeeSSN": "913353347",
+        "ProjectNumber": "22"
+    },
+    {
+        "ProjectHours": "25.0",
+        "EmployeeSSN": "292740167",
+        "ProjectNumber": "1"
+    },
+    {
+        "ProjectHours": "20.0",
+        "EmployeeSSN": "202843824",
+        "ProjectNumber": "11"
+    },
+    {
+        "ProjectHours": "4.0",
+        "EmployeeSSN": "673466642",
+        "ProjectNumber": "22"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "101248268",
+        "ProjectNumber": "29"
+    },
+    {
+        "ProjectHours": "25.0",
+        "EmployeeSSN": "245239264",
+        "ProjectNumber": "11"
+    },
+    {
+        "ProjectHours": "5.0",
+        "EmployeeSSN": "242916639",
+        "ProjectNumber": "4"
+    },
+    {
+        "ProjectHours": "15.0",
+        "EmployeeSSN": "906218888",
+        "ProjectNumber": "29"
+    },
+    {
+        "ProjectHours": "18.0",
+        "EmployeeSSN": "001614905",
+        "ProjectNumber": "13"
+    },
+    {
+        "ProjectHours": "25.0",
+        "EmployeeSSN": "245239264",
+        "ProjectNumber": "10"
+    },
+    {
+        "ProjectHours": "15.0",
+        "EmployeeSSN": "349273344",
+        "ProjectNumber": "29"
+    },
+    {
+        "ProjectHours": "20.0",
+        "EmployeeSSN": "242916639",
+        "ProjectNumber": "11"
+    },
+    {
+        "ProjectHours": "35.0",
+        "EmployeeSSN": "214370999",
+        "ProjectNumber": "10"
+    },
+    {
+        "ProjectHours": "45.0",
+        "EmployeeSSN": "111422203",
+        "ProjectNumber": "4"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "398172999",
+        "ProjectNumber": "70"
+    },
+    {
+        "ProjectHours": "4.0",
+        "EmployeeSSN": "241625699",
+        "ProjectNumber": "61"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "122344668",
+        "ProjectNumber": "3"
+    },
+    {
+        "ProjectHours": "10.0",
+        "EmployeeSSN": "122344668",
+        "ProjectNumber": "20"
+    },
+    {
+        "ProjectHours": "25.0",
+        "EmployeeSSN": "122344668",
+        "ProjectNumber": "30"
+    }
+]
