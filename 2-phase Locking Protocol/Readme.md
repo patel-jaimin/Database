@@ -1,4 +1,4 @@
-# Project1 Repository Summer 2020 
+## Project1 Repository Summer 2020 
 
 ### This Project was part of Database models and Implementation Techniques coursework in UTA under Prof Ramirez Elmasari.
 
